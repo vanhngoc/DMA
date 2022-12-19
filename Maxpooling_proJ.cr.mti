@@ -1,0 +1,26 @@
+D:/datapath.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none D:/datapath.vhd
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+** Error: (vcom-11) Could not find work.mylib.
+** Error (suppressible): D:/datapath.vhd(5): (vcom-1195) Cannot find expanded name "work.mylib".
+** Error: D:/datapath.vhd(5): Unknown expanded name.
+** Error: D:/datapath.vhd(7): VHDL Compiler exiting
+
+} {9.0 10.0 11.0 13.0} {}} D:/maxpooling.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none D:/maxpooling.vhd
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+** Error: (vcom-11) Could not find work.mylib.
+** Error (suppressible): D:/maxpooling.vhd(5): (vcom-1195) Cannot find expanded name "work.mylib".
+** Error: D:/maxpooling.vhd(5): Unknown expanded name.
+** Error: D:/maxpooling.vhd(7): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 12.0} {}}

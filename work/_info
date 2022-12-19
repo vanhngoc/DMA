@@ -1,0 +1,433 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.5/examples
+Econtroller
+Z1 w1671392209
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dD:/maxpooling
+Z7 8D:/controller.vhd
+Z8 FD:/controller.vhd
+l0
+L5
+VzV5e468IKMaiIbkS<PAW]3
+!s100 9MePDO`zCkWTaj`:gQcSj1
+Z9 OL;C;10.5;63
+32
+Z10 !s110 1671423887
+!i10b 1
+Z11 !s108 1671423887.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/controller.vhd|
+Z13 !s107 D:/controller.vhd|
+!i113 0
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Abev
+R2
+R3
+R4
+R5
+DEx4 work 10 controller 0 22 zV5e468IKMaiIbkS<PAW]3
+l23
+L20
+VIH61<QX;>_E<h_]BYZ54U1
+!s100 eT@Ya?V7lBb1T=CQ[aR:31
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Ecounter
+Z16 w1671392201
+R2
+R3
+R4
+R5
+R6
+Z17 8D:/counter.vhd
+Z18 FD:/counter.vhd
+l0
+L6
+Vl3[moLnn[]oMPT4=0>XXe0
+!s100 GYn]=T^?DW`4HK?58@Fz20
+R9
+32
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/counter.vhd|
+Z20 !s107 D:/counter.vhd|
+!i113 0
+R14
+R15
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 7 counter 0 22 l3[moLnn[]oMPT4=0>XXe0
+l22
+L20
+V;Klh;7G9ALo5ggc?l7m]C1
+!s100 >GXTT9Y4T?3?0;QdZ^9=O1
+R9
+32
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 0
+R14
+R15
+Ecounter2
+Z21 w1671392204
+R2
+R3
+R4
+R5
+R6
+Z22 8D:/counter2.vhd
+Z23 FD:/counter2.vhd
+l0
+L6
+VzZ5I:5BUcNLIDD>aeI[332
+!s100 3[LedQ6HJOng=8VaO2n_@2
+R9
+32
+R10
+!i10b 1
+R11
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/counter2.vhd|
+Z25 !s107 D:/counter2.vhd|
+!i113 0
+R14
+R15
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 8 counter2 0 22 zZ5I:5BUcNLIDD>aeI[332
+l22
+L20
+VMXGKYiHHb__BI_`HgFaVG0
+!s100 C[`14F7b4j:J8=2;8GW]m3
+R9
+32
+R10
+!i10b 1
+R11
+R24
+R25
+!i113 0
+R14
+R15
+Ecounter_index
+Z26 w1671392835
+R2
+R3
+R4
+R5
+R6
+Z27 8D:/counter_index.vhd
+Z28 FD:/counter_index.vhd
+l0
+L5
+V_aGnEOh^NT5o8[AZ9hFgk3
+!s100 1HR=z6K4Vl1Y8zEFcd=7_3
+R9
+32
+R10
+!i10b 1
+R11
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/counter_index.vhd|
+Z30 !s107 D:/counter_index.vhd|
+!i113 0
+R14
+R15
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 13 counter_index 0 22 _aGnEOh^NT5o8[AZ9hFgk3
+l19
+L17
+VThS[?lL@dK1CkQ70hoC051
+!s100 [LbVdOgckC<Pc`XebX2>?2
+R9
+32
+R10
+!i10b 1
+R11
+R29
+R30
+!i113 0
+R14
+R15
+Edatapath
+Z31 w1671392115
+Z32 DPx4 work 5 mylib 0 22 9:e=F<N;1Q0iNi9mni7zG1
+Z33 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R4
+R5
+R6
+Z34 8D:/datapath.vhd
+Z35 FD:/datapath.vhd
+l0
+L7
+VLQH41GX9LnFb9ZFXgb`C51
+!s100 8If7hYgPoWPo>D2IO_V>L0
+R9
+32
+R10
+!i10b 1
+R11
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/datapath.vhd|
+Z37 !s107 D:/datapath.vhd|
+!i113 0
+R14
+R15
+Artl
+R32
+R33
+R2
+R3
+R4
+R5
+DEx4 work 8 datapath 0 22 LQH41GX9LnFb9ZFXgb`C51
+l38
+L28
+VDQ_NMl0gJLMX_=nk6NZ_Y0
+!s100 JlS0zh_@;nXUV0[oeYADB0
+R9
+32
+R10
+!i10b 1
+R11
+R36
+R37
+!i113 0
+R14
+R15
+Edpmem
+Z38 w1671392152
+R2
+R3
+R4
+R5
+R6
+Z39 8D:/dpmem.vhd
+Z40 FD:/dpmem.vhd
+l0
+L5
+VI?`H8Q6KoZ3REI51VOj0=3
+!s100 BAbRKMb^_ce_NJP642cc<3
+R9
+32
+R10
+!i10b 1
+R11
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/dpmem.vhd|
+Z42 !s107 D:/dpmem.vhd|
+!i113 0
+R14
+R15
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 5 dpmem 0 22 I?`H8Q6KoZ3REI51VOj0=3
+l27
+L21
+VV9kg3jgh262]TVII481OA2
+!s100 lLg`_c5HY07QAZ5@FFc<Z0
+R9
+32
+R10
+!i10b 1
+R11
+R41
+R42
+!i113 0
+R14
+R15
+Emaxpooling
+Z43 w1671392067
+R32
+R2
+R3
+R4
+R5
+R6
+Z44 8D:/maxpooling.vhd
+Z45 FD:/maxpooling.vhd
+l0
+L7
+VgLAQ7Vhklj1ZO<=[=4O@M3
+!s100 9A_1cV3=8OAEhD5PVH1nb1
+R9
+32
+R10
+!i10b 1
+R11
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/maxpooling.vhd|
+Z47 !s107 D:/maxpooling.vhd|
+!i113 0
+R14
+R15
+Artl
+R32
+R2
+R3
+R4
+R5
+DEx4 work 10 maxpooling 0 22 gLAQ7Vhklj1ZO<=[=4O@M3
+l35
+L24
+VzN9Gd`@=am?5Jo5K4NMnV0
+!s100 S0Vk]dO3RKUz5k=PB1bQG2
+R9
+32
+R10
+!i10b 1
+R11
+R46
+R47
+!i113 0
+R14
+R15
+Emaxpooling_tb
+Z48 w1671392274
+R32
+R2
+R3
+R4
+R5
+R6
+Z49 8D:/maxpooling_tb.vhd
+Z50 FD:/maxpooling_tb.vhd
+l0
+L7
+V0Jh17SmQ]^fM?B^YoGjm02
+!s100 W^JJJFLle^fLXI<@A:RXA2
+R9
+32
+R10
+!i10b 1
+R11
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/maxpooling_tb.vhd|
+Z52 !s107 D:/maxpooling_tb.vhd|
+!i113 0
+R14
+R15
+Artl
+R32
+R2
+R3
+R4
+R5
+DEx4 work 13 maxpooling_tb 0 22 0Jh17SmQ]^fM?B^YoGjm02
+l24
+L14
+V:W8o1BbjmSKe:ASQW7X=P3
+!s100 blIa9[MTFm>k@3YO^7K`n1
+R9
+32
+Z53 !s110 1671423888
+!i10b 1
+R11
+R51
+R52
+!i113 0
+R14
+R15
+Tmaxpooling_tb_opt
+!s110 1671418510
+V5C47aN[C<G4bWa^AWC0C23
+04 13 3 work maxpooling_tb rtl 1
+o+acc
+tCvgOpt 0
+nmaxpooling_tb_opt
+OL;O;10.5;63
+R0
+Emux
+Z54 w1671392236
+R4
+R5
+R6
+Z55 8D:/mux.vhd
+Z56 FD:/mux.vhd
+l0
+L4
+V18X_Vb?mW3TL^TU4H:GE`0
+!s100 K;XMSA07NDCQH<JX3T3KZ1
+R9
+32
+R53
+!i10b 1
+Z57 !s108 1671423888.000000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/mux.vhd|
+Z59 !s107 D:/mux.vhd|
+!i113 0
+R14
+R15
+Abehaviral
+R4
+R5
+Z60 DEx4 work 3 mux 0 22 18X_Vb?mW3TL^TU4H:GE`0
+l15
+L14
+Z61 V4<Ve>eg^BacK0RC@7K<4]0
+Z62 !s100 I=:EJblb2ng7J3NXeDm3e2
+R9
+32
+R53
+!i10b 1
+R57
+R58
+R59
+!i113 0
+R14
+R15
+Pmylib
+R2
+R3
+R4
+R5
+w1671392247
+R6
+8D:/mylib.vhd
+FD:/mylib.vhd
+l0
+L5
+V9:e=F<N;1Q0iNi9mni7zG1
+!s100 @>M;;]76edC1RiGm6S@dd2
+R9
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/mylib.vhd|
+!s107 D:/mylib.vhd|
+!i113 0
+R14
+R15
